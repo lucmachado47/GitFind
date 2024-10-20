@@ -5,7 +5,7 @@ GitFind is a project developed with React JS and the GitHub REST API to create a
 You can search for profiles using an input bar to type a username, and see information such as the name, bio, and a list of repositories for that user. 
 
 ## Screenshot
-[!GitFind Screenshot](./src/assets/gitfingscreenshot.png)
+![GitFind Screenshot](./src/assets/gitfindscreenshot.png)
 
 ## Getting Started with Create React App
 
